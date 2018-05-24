@@ -360,7 +360,7 @@ class ThemeOptions {
 }
 
 function cmp_by_optionNumber($a, $b) {
-	return $a["sort"] - $b["sort"];
+	return ((int)$a["sort"] - (int)$b["sort"]);
 }
 
 ?>
