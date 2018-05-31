@@ -194,7 +194,7 @@ if($registry->has('theme_options') == true) {
 							OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
 							Please donate via PayPal to donate@opencart.com
 							//-->
-							<p class="copyright-left">Powered by <a href="http://www.opencart.com">OpenCart</a>  Made by <a href="http://www.themeglobal.com">ThemeGlobal - OpenCart Template Club</a></p>
+							<p class="copyright-left">Powered by <a href="javascript:void(0)">pakbela.com</a>  2018.  All Rights Reserved </p>
 							<!--
 							OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
 							Please donate via PayPal to donate@opencart.com
